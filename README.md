@@ -1,6 +1,6 @@
 # sunset: Retro 80's Aesthetic
 A 80's style sunset scene developed in 6502 assembly, designed to run on the NES (Nintendo Entertainment System).
-For the ROM file, download it from [itch.io](https://ms0g.itch.io/sunset).
+You can download the `ROM` file from [itch.io](https://ms0g.itch.io/sunset).
 
 <img src="assets/sunset.gif" alt="image" width="700" height="auto">
 
